@@ -1,35 +1,13 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-## Date: 
-## Register no.:
-## Aim: To perform the Exploration of Prompting Techniques for Video Generation
-## Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
-Familiarize Yourself with Video Generation Models:
-Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
-Runway Gen-2
-Synthesia
-Pictory
-DeepBrain
-Understand the capabilities and limitations of each tool before starting the experiment.
-Create Simple Prompts for Video Generation:
-Start with simple prompts to generate short videos. These prompts should describe the general subject or activity.
-Example prompt: "A person walking in a park."
-Experiment with More Detailed Prompts:
-Gradually refine your prompts by adding specific details, such as the setting, lighting, actions, or expressions.
-Example prompt: "A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them."
-Add Time and Motion Elements:
-Incorporate aspects like timing, transitions, or camera movement in your prompts.
-Example prompt: "A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky."
-Test Different Video Styles:
-Experiment with different styles of video generation, such as animations, live-action, cinematic, or artistic.
-Example prompt: "An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd of people."
-Iterate and Adjust Prompts:
-Evaluate the generated video and refine the prompt if needed. Consider aspects like the pacing, transitions, and consistency of motion in the video.
-Example: After reviewing, refine the prompt to add more details about the camera angles or actions: "A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene."
-Generate Multiple Versions:
-Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
-Save and Compare Outputs:
-Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+## Date: 11.11.2025
+## Name : Rakshitha M
+## Register no. :212223060220
+## Aim: 
+To perform the Exploration of Prompting Techniques for Video Generation
+
+## Algorithm:
+Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. 
 
 ## 1. Objective of the Exploration
 
@@ -126,15 +104,25 @@ This final version combines all tested techniques: style, detail, motion, emotio
 
 Model Used: Runway Gen-2
 
-### Video Output
+### Example 1:“Dogs playing with a ball in a park.” 
+### Output 
 
-Insert your generated video link here:
-Example placeholder:
-“Generated video available on Google Drive.”
+<img width="943" height="696" alt="Screenshot 2025-11-15 140520" src="https://github.com/user-attachments/assets/15078da9-7a4b-4159-825c-d8b84c46f01c" />
+
 
 ### Preview Image
 
-Insert a screenshot from the generated video.
+<img width="1280" height="720" alt="DisneyPixar-inspired 3D cartoon animation style still frame of playful dogs in a vibrant pet park The dogs are looking at a colorful ball with expressive Pixar-style faces, ready to chase it Bright_" src="https://github.com/user-attachments/assets/1e373e20-49e9-453d-a915-9f0b87282629" />
+
+### Example 2:" Childrens fieldtrip to zoo"
+
+### Output
+
+
+<img width="638" height="657" alt="Screenshot 2025-11-15 141352" src="https://github.com/user-attachments/assets/0d9be43b-3de4-412b-b94e-614e11e47686" />
+
+
+
 
 ## 10. Observations and Findings
 
@@ -152,7 +140,9 @@ This exploration demonstrates that prompt quality directly influences the storyt
 
 
 
-## Result: The Prompt of the above task executed successfully
+## Result: 
+
+The Prompt of the above task executed successfully
 
 
 
